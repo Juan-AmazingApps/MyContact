@@ -1,0 +1,10 @@
+<resources>
+    >
+    <string name="app_name">MyContact</string>
+    <string name="nombre">Juan</string>
+    <string name="telefono">(656)-253-36-90</string>
+    <string name="email">Juan.Acosta@AmazingApps.mx</string>
+    <string name="pNombre">Nombre</string>
+    <string name="pTelefono">Telefono</string>
+    <string name="pEmail">Email</string>
+</resources>
